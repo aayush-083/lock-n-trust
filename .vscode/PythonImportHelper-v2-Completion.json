@@ -1,0 +1,500 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "SHA256",
+        "importPath": "Crypto.Hash",
+        "description": "Crypto.Hash",
+        "isExtraImport": true,
+        "detail": "Crypto.Hash",
+        "documentation": {}
+    },
+    {
+        "label": "PBKDF2",
+        "importPath": "Crypto.Protocol.KDF",
+        "description": "Crypto.Protocol.KDF",
+        "isExtraImport": true,
+        "detail": "Crypto.Protocol.KDF",
+        "documentation": {}
+    },
+    {
+        "label": "struct",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "struct",
+        "description": "struct",
+        "detail": "struct",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "generate_salt",
+        "importPath": "authentication",
+        "description": "authentication",
+        "isExtraImport": true,
+        "detail": "authentication",
+        "documentation": {}
+    },
+    {
+        "label": "derive_key",
+        "importPath": "authentication",
+        "description": "authentication",
+        "isExtraImport": true,
+        "detail": "authentication",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_data",
+        "importPath": "encryption",
+        "description": "encryption",
+        "isExtraImport": true,
+        "detail": "encryption",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_data",
+        "importPath": "encryption",
+        "description": "encryption",
+        "isExtraImport": true,
+        "detail": "encryption",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_hash",
+        "importPath": "file_integrity",
+        "description": "file_integrity",
+        "isExtraImport": true,
+        "detail": "file_integrity",
+        "documentation": {}
+    },
+    {
+        "label": "AES",
+        "importPath": "Crypto.Cipher",
+        "description": "Crypto.Cipher",
+        "isExtraImport": true,
+        "detail": "Crypto.Cipher",
+        "documentation": {}
+    },
+    {
+        "label": "get_random_bytes",
+        "importPath": "Crypto.Random",
+        "description": "Crypto.Random",
+        "isExtraImport": true,
+        "detail": "Crypto.Random",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageTk",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "Font",
+        "importPath": "tkinter.font",
+        "description": "tkinter.font",
+        "isExtraImport": true,
+        "detail": "tkinter.font",
+        "documentation": {}
+    },
+    {
+        "label": "Font",
+        "importPath": "tkinter.font",
+        "description": "tkinter.font",
+        "isExtraImport": true,
+        "detail": "tkinter.font",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "PartialReadVault",
+        "importPath": "container",
+        "description": "container",
+        "isExtraImport": true,
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "generate_salt",
+        "kind": 2,
+        "importPath": "authentication",
+        "description": "authentication",
+        "peekOfCode": "def generate_salt(size: int = SALT_SIZE) -> bytes:\n    \"\"\"\n    Generates a cryptographically secure random salt of given size.\n    \"\"\"\n    return os.urandom(size)\ndef derive_key(password: str, salt: bytes, iterations: int = 100_000, key_size: int = 32) -> bytes:\n    \"\"\"\n    Derives a key using PBKDF2 with SHA-256.\n    :param password: User's password (string)\n    :param salt: Random salt bytes",
+        "detail": "authentication",
+        "documentation": {}
+    },
+    {
+        "label": "derive_key",
+        "kind": 2,
+        "importPath": "authentication",
+        "description": "authentication",
+        "peekOfCode": "def derive_key(password: str, salt: bytes, iterations: int = 100_000, key_size: int = 32) -> bytes:\n    \"\"\"\n    Derives a key using PBKDF2 with SHA-256.\n    :param password: User's password (string)\n    :param salt: Random salt bytes\n    :param iterations: Number of PBKDF2 iterations\n    :param key_size: Length of derived key (bytes)\n    :return: Derived key (bytes)\n    \"\"\"\n    return PBKDF2(",
+        "detail": "authentication",
+        "documentation": {}
+    },
+    {
+        "label": "SALT_SIZE",
+        "kind": 5,
+        "importPath": "authentication",
+        "description": "authentication",
+        "peekOfCode": "SALT_SIZE = 16  # 16 bytes\ndef generate_salt(size: int = SALT_SIZE) -> bytes:\n    \"\"\"\n    Generates a cryptographically secure random salt of given size.\n    \"\"\"\n    return os.urandom(size)\ndef derive_key(password: str, salt: bytes, iterations: int = 100_000, key_size: int = 32) -> bytes:\n    \"\"\"\n    Derives a key using PBKDF2 with SHA-256.\n    :param password: User's password (string)",
+        "detail": "authentication",
+        "documentation": {}
+    },
+    {
+        "label": "PartialReadVault",
+        "kind": 6,
+        "importPath": "container",
+        "description": "container",
+        "peekOfCode": "class PartialReadVault:\n    \"\"\"\n    A vault that uses partial reads for each file chunk.\n    The index is stored at offset=16 in a brand-new vault, then appended as needed.\n    The final 8 bytes contain the integer offset where the index starts.\n    \"\"\"\n    def __init__(self):\n        self.vault_path = None\n        self.master_key = None\n        self.index_data = None  # {\"files\": {filename: {offset, chunk_size, plaintext_size, hash}}}",
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "VAULT_EXTENSION",
+        "kind": 5,
+        "importPath": "container",
+        "description": "container",
+        "peekOfCode": "VAULT_EXTENSION = \".vault\"\nINDEX_OFFSET_SIZE = 8           # 8 bytes to store the index offset at the end\nCHUNK_SIZE_HEADER = 8           # Each chunk has an 8-byte length header\nSALT_SIZE = 16                  # 16 bytes salt\nAES_KEY_SIZE = 32               # 256 bits\nclass PartialReadVault:\n    \"\"\"\n    A vault that uses partial reads for each file chunk.\n    The index is stored at offset=16 in a brand-new vault, then appended as needed.\n    The final 8 bytes contain the integer offset where the index starts.",
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_OFFSET_SIZE",
+        "kind": 5,
+        "importPath": "container",
+        "description": "container",
+        "peekOfCode": "INDEX_OFFSET_SIZE = 8           # 8 bytes to store the index offset at the end\nCHUNK_SIZE_HEADER = 8           # Each chunk has an 8-byte length header\nSALT_SIZE = 16                  # 16 bytes salt\nAES_KEY_SIZE = 32               # 256 bits\nclass PartialReadVault:\n    \"\"\"\n    A vault that uses partial reads for each file chunk.\n    The index is stored at offset=16 in a brand-new vault, then appended as needed.\n    The final 8 bytes contain the integer offset where the index starts.\n    \"\"\"",
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "CHUNK_SIZE_HEADER",
+        "kind": 5,
+        "importPath": "container",
+        "description": "container",
+        "peekOfCode": "CHUNK_SIZE_HEADER = 8           # Each chunk has an 8-byte length header\nSALT_SIZE = 16                  # 16 bytes salt\nAES_KEY_SIZE = 32               # 256 bits\nclass PartialReadVault:\n    \"\"\"\n    A vault that uses partial reads for each file chunk.\n    The index is stored at offset=16 in a brand-new vault, then appended as needed.\n    The final 8 bytes contain the integer offset where the index starts.\n    \"\"\"\n    def __init__(self):",
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "SALT_SIZE",
+        "kind": 5,
+        "importPath": "container",
+        "description": "container",
+        "peekOfCode": "SALT_SIZE = 16                  # 16 bytes salt\nAES_KEY_SIZE = 32               # 256 bits\nclass PartialReadVault:\n    \"\"\"\n    A vault that uses partial reads for each file chunk.\n    The index is stored at offset=16 in a brand-new vault, then appended as needed.\n    The final 8 bytes contain the integer offset where the index starts.\n    \"\"\"\n    def __init__(self):\n        self.vault_path = None",
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "AES_KEY_SIZE",
+        "kind": 5,
+        "importPath": "container",
+        "description": "container",
+        "peekOfCode": "AES_KEY_SIZE = 32               # 256 bits\nclass PartialReadVault:\n    \"\"\"\n    A vault that uses partial reads for each file chunk.\n    The index is stored at offset=16 in a brand-new vault, then appended as needed.\n    The final 8 bytes contain the integer offset where the index starts.\n    \"\"\"\n    def __init__(self):\n        self.vault_path = None\n        self.master_key = None",
+        "detail": "container",
+        "documentation": {}
+    },
+    {
+        "label": "VAULT_FILE",
+        "kind": 5,
+        "importPath": "debug_vault",
+        "description": "debug_vault",
+        "peekOfCode": "VAULT_FILE = \"MyVaultFile.vault\"\nINDEX_OFFSET_SIZE = 8\nSALT_SIZE = 16\nwith open(VAULT_FILE, \"rb\") as vault_file:\n    # Read the salt (first 16 bytes)\n    vault_file.seek(0)\n    salt = vault_file.read(SALT_SIZE)\n    print(f\"Salt: {salt.hex()}\")\n    # Read the last 8 bytes (index offset)\n    vault_file.seek(-INDEX_OFFSET_SIZE, 2)",
+        "detail": "debug_vault",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_OFFSET_SIZE",
+        "kind": 5,
+        "importPath": "debug_vault",
+        "description": "debug_vault",
+        "peekOfCode": "INDEX_OFFSET_SIZE = 8\nSALT_SIZE = 16\nwith open(VAULT_FILE, \"rb\") as vault_file:\n    # Read the salt (first 16 bytes)\n    vault_file.seek(0)\n    salt = vault_file.read(SALT_SIZE)\n    print(f\"Salt: {salt.hex()}\")\n    # Read the last 8 bytes (index offset)\n    vault_file.seek(-INDEX_OFFSET_SIZE, 2)\n    index_offset_bytes = vault_file.read(INDEX_OFFSET_SIZE)",
+        "detail": "debug_vault",
+        "documentation": {}
+    },
+    {
+        "label": "SALT_SIZE",
+        "kind": 5,
+        "importPath": "debug_vault",
+        "description": "debug_vault",
+        "peekOfCode": "SALT_SIZE = 16\nwith open(VAULT_FILE, \"rb\") as vault_file:\n    # Read the salt (first 16 bytes)\n    vault_file.seek(0)\n    salt = vault_file.read(SALT_SIZE)\n    print(f\"Salt: {salt.hex()}\")\n    # Read the last 8 bytes (index offset)\n    vault_file.seek(-INDEX_OFFSET_SIZE, 2)\n    index_offset_bytes = vault_file.read(INDEX_OFFSET_SIZE)\n    try:",
+        "detail": "debug_vault",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt_data",
+        "kind": 2,
+        "importPath": "encryption",
+        "description": "encryption",
+        "peekOfCode": "def encrypt_data(key: bytes, plaintext: bytes) -> bytes:\n    \"\"\"\n    Encrypts plaintext using AES-GCM.\n    Returns: [IV(16 bytes) | TAG(16 bytes) | Ciphertext]\n    \"\"\"\n    iv = get_random_bytes(16)\n    cipher = AES.new(key, AES.MODE_GCM, nonce=iv)\n    ciphertext, tag = cipher.encrypt_and_digest(plaintext)\n    return iv + tag + ciphertext\ndef decrypt_data(key: bytes, data: bytes) -> bytes:",
+        "detail": "encryption",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt_data",
+        "kind": 2,
+        "importPath": "encryption",
+        "description": "encryption",
+        "peekOfCode": "def decrypt_data(key: bytes, data: bytes) -> bytes:\n    \"\"\"\n    Decrypts data from the format [IV(16) | TAG(16) | Ciphertext].\n    \"\"\"\n    iv = data[:16]\n    tag = data[16:32]\n    ciphertext = data[32:]\n    cipher = AES.new(key, AES.MODE_GCM, nonce=iv)\n    return cipher.decrypt_and_verify(ciphertext, tag)",
+        "detail": "encryption",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_hash",
+        "kind": 2,
+        "importPath": "file_integrity",
+        "description": "file_integrity",
+        "peekOfCode": "def calculate_hash(content: bytes) -> str:\n    \"\"\"\n    Returns the SHA-256 hex digest of the given content.\n    \"\"\"\n    return hashlib.sha256(content).hexdigest()",
+        "detail": "file_integrity",
+        "documentation": {}
+    },
+    {
+        "label": "VaultGUI",
+        "kind": 6,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "class VaultGUI(tk.Tk):\n    def __init__(self):\n        super().__init__()\n        self.title(\"🔒 LOCKNTRUST\")\n        self.geometry(\"900x650\")\n        self.minsize(800, 600)\n        self.configure(bg=\"white\")\n        # Vault state management\n        self.vault_state = \"locked\"  # 'locked' or 'unlocked'\n        self.current_vault_path = None",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "LoadingFrame",
+        "kind": 6,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "class LoadingFrame(ttk.Frame):\n    def __init__(self, parent, controller):\n        super().__init__(parent, style=\"TFrame\")\n        self.controller = controller\n        self.message_var = tk.StringVar(value=\"Processing...\")\n        container = ttk.Frame(self, style=\"TFrame\")\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        self.loading_label = ttk.Label(container, textvariable=self.message_var, \n                                    font=(\"Segoe UI\", 14), style=\"TLabel\")\n        self.loading_label.pack(pady=20)",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "LoginFrame",
+        "kind": 6,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "class LoginFrame(ttk.Frame):\n    def __init__(self, parent, controller):\n        super().__init__(parent, style=\"TFrame\")\n        self.controller = controller\n        container = ttk.Frame(self, style=\"TFrame\")\n        container.pack(expand=True, padx=50, pady=50)\n        logo_font = Font(family=\"Segoe UI\", size=24, weight=\"bold\")\n        ttk.Label(container, text=\"🔒 LOCKNTRUST\", font=logo_font, \n                 foreground=\"#6200ee\").pack(pady=(0, 30))\n        path_frame = ttk.Frame(container, style=\"TFrame\")",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "VaultFrame",
+        "kind": 6,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "class VaultFrame(ttk.Frame):\n    def __init__(self, parent, controller):\n        super().__init__(parent, style=\"TFrame\")\n        self.controller = controller\n        header = ttk.Frame(self, style=\"TFrame\")\n        header.pack(fill=\"x\", pady=10)\n        ttk.Label(header, text=\"🔓 Vault Contents\", \n                 font=(\"Segoe UI\", 18, \"bold\"),\n                 foreground=\"#6200ee\").pack(side=\"left\", padx=20)\n        lock_btn = ttk.Button(header, text=\"Lock Vault\", ",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "gui",
+        "description": "gui",
+        "peekOfCode": "def main():\n    app = VaultGUI()\n    app.mainloop()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "gui",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    if len(sys.argv) < 2:\n        print(\"Usage:\")\n        print(\"  python main.py create <vault_path> <password>\")\n        print(\"  python main.py open <vault_path> <password>\")\n        print(\"  python main.py add <vault_path> <password> <file_to_add>\")\n        print(\"  python main.py extract <vault_path> <password> <filename_in_vault> <output_path>\")\n        print(\"  python main.py list <vault_path> <password>\")\n        print(\"  python main.py remove <vault_path> <password> <filename_in_vault>\")\n        sys.exit(1)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "VaultGUI",
+        "kind": 6,
+        "importPath": "tempCodeRunnerFile",
+        "description": "tempCodeRunnerFile",
+        "peekOfCode": "class VaultGUI(tk.Tk):\n    def __init__(self):\n        super().__init__()\n        self.title(\"🔒 LOCKNTRUST\")\n        self.geometry(\"900x650\")\n        self.minsize(800, 600)\n        self.configure(bg=\"#121212\")\n        # Load custom theme\n        self.setup_theme()\n        # Application icon",
+        "detail": "tempCodeRunnerFile",
+        "documentation": {}
+    },
+    {
+        "label": "LoadingFrame",
+        "kind": 6,
+        "importPath": "tempCodeRunnerFile",
+        "description": "tempCodeRunnerFile",
+        "peekOfCode": "class LoadingFrame(ttk.Frame):\n    def __init__(self, parent, controller):\n        super().__init__(parent, style=\"TFrame\")\n        self.controller = controller\n        self.message_var = tk.StringVar(value=\"Processing...\")\n        container = ttk.Frame(self, style=\"TFrame\")\n        container.place(relx=0.5, rely=0.5, anchor=\"center\")\n        # Loading animation\n        self.loading_label = ttk.Label(container, textvariable=self.message_var, \n                                    font=(\"Segoe UI\", 14), style=\"TLabel\")",
+        "detail": "tempCodeRunnerFile",
+        "documentation": {}
+    },
+    {
+        "label": "LoginFrame",
+        "kind": 6,
+        "importPath": "tempCodeRunnerFile",
+        "description": "tempCodeRunnerFile",
+        "peekOfCode": "class LoginFrame(ttk.Frame):\n    def __init__(self, parent, controller):\n        super().__init__(parent, style=\"TFrame\")\n        self.controller = controller\n        # Main content container\n        container = ttk.Frame(self, style=\"TFrame\")\n        container.pack(expand=True, padx=50, pady=50)\n        # Logo/Title\n        logo_font = Font(family=\"Segoe UI\", size=24, weight=\"bold\")\n        ttk.Label(container, text=\"🔒 LOCKNTRUST\", font=logo_font, ",
+        "detail": "tempCodeRunnerFile",
+        "documentation": {}
+    },
+    {
+        "label": "VaultFrame",
+        "kind": 6,
+        "importPath": "tempCodeRunnerFile",
+        "description": "tempCodeRunnerFile",
+        "peekOfCode": "class VaultFrame(ttk.Frame):\n    def __init__(self, parent, controller):\n        super().__init__(parent, style=\"TFrame\")\n        self.controller = controller\n        # Header\n        header = ttk.Frame(self, style=\"TFrame\")\n        header.pack(fill=\"x\", pady=10)\n        ttk.Label(header, text=\"🔓 Vault Contents\", \n                 font=(\"Segoe UI\", 18, \"bold\"),\n                 foreground=\"#bb86fc\").pack(side=\"left\", padx=20)",
+        "detail": "tempCodeRunnerFile",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "tempCodeRunnerFile",
+        "description": "tempCodeRunnerFile",
+        "peekOfCode": "def main():\n    app = VaultGUI()\n    app.mainloop()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "tempCodeRunnerFile",
+        "documentation": {}
+    }
+]
